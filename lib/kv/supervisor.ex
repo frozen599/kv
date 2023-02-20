@@ -1,4 +1,4 @@
-defmodule Kv.Supervisor do
+defmodule KV.Supervisor do
   use Supervisor
 
   def start_link(opts) do
